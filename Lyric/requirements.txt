@@ -1,0 +1,9 @@
+beautifulsoup4
+ffmpeg_downloader
+nicegui
+pylrc==0.1.2
+rapidfuzz==3.8.1
+Requests==2.32.3
+scipy==1.13.1
+shazamio
+sounddevice==0.4.6
