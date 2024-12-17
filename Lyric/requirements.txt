@@ -4,6 +4,6 @@ nicegui
 pylrc==0.1.2
 rapidfuzz==3.8.1
 Requests==2.32.3
-scipy==1.13.1
-shazamio
+scipy
 sounddevice==0.4.6
+shazamio
